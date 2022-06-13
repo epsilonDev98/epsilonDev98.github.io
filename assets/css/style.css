@@ -833,7 +833,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
   position: relative;
   overflow: hidden;
   height: 200px;
-  width: 200px;
+  width: 250px;
 }
 
 .member .social {
@@ -867,7 +867,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
 
 .member .member-info {
   padding: 20px 10px;
-  width: 200px;
+  width: 250px;
   height: 75px;
 }
 
